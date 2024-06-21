@@ -17,6 +17,8 @@
 #gambar3d{
 	background: whitesmoke;
 	
+
+	
 }
 
 #gambar3d .col-md-4{
@@ -55,7 +57,7 @@ section{
 	background-color: rgb(255, 255, 255);
 }
 .iceage-box{
-	
+	background-image: url(img/tilt/bg3d.jpg);
 	background-color: #ff64c4;
 	border-radius: 10px;
 	height: 500px;
